@@ -1,7 +1,9 @@
 # CasualPlayerEdits Branch by BrassBolt
+
+Features:  High Visibility, Easy Yoinks, Rune presence improved
 This branch is for a personal group I play with.  We are primarily leveling different characters and are not focused on endgame yet.  These are edits that I needed or the group has requested.
 
-See the 2.0EarlyCode branch for my edits https://github.com/Brassbolt/Equa1ityPD2Filter/tree/CasualPlayerEdits/2.0Early%20Code
+See the 2.0EarlyCode folder for my edits https://github.com/Brassbolt/Equa1ityPD2Filter/tree/CasualPlayerEdits/2.0Early%20Code
 
 =====================================================
 
